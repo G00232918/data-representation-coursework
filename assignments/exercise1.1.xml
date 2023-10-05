@@ -6,7 +6,7 @@
     <!-- This is the first catalogue, containing technical books -->
     <catalogue name="technical books">
         
-        <!-- Book one in the catalogue -->
+        <!-- Book one tech -->
         <book>
             <!-- International Standard Book Number-->
             <isbn>978-1098104030</isbn>
@@ -16,7 +16,7 @@
             <author>Wes McKinney</author>
         </book>
         
-        <!-- Book 2 -->
+        <!-- Book two tech -->
         <book>
             <!-- International Standard Book Number  -->
             <isbn>978-1098108304</isbn>
@@ -31,7 +31,7 @@
     <!-- This is the second catalogue, containing cookery books -->
     <catalogue name="cookery books">
         
-        <!-- Book one -->
+        <!-- Book one cook -->
         <book>
             <!-- International Standard Book Number -->
             <isbn>978-1444756692</isbn>
@@ -41,7 +41,7 @@
             <author>Gordon Ramsey</author>
         </book>
         
-        <!-- Book 2 -->
+        <!-- Book two cook -->
         <book>
             <!-- International Standard Book Number -->
             <isbn>978-1782060062</isbn>
