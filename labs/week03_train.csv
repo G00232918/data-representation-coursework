@@ -1,0 +1,56 @@
+N
+N	51.9018
+N	51.9018	-8.4582
+N	51.9018	-8.4582	D520
+N	51.9018	-8.4582	D520	05 Oct 2023
+N	51.9018	-8.4582	D520	05 Oct 2023	D520\nCork to Cobh\nExpected Departure 13:00
+N	51.9018	-8.4582	D520	05 Oct 2023	D520\nCork to Cobh\nExpected Departure 13:00	To Cobh
+N
+N	51.9018
+N	51.9018	-8.4582
+N	51.9018	-8.4582	D565
+N	51.9018	-8.4582	D565	05 Oct 2023
+N	51.9018	-8.4582	D565	05 Oct 2023	D565\nCork to Midleton\nExpected Departure 13:15
+N	51.9018	-8.4582	D565	05 Oct 2023	D565\nCork to Midleton\nExpected Departure 13:15	To Midleton
+R
+R	53.163
+R	53.163	-6.90802
+R	53.163	-6.90802	D210
+R	53.163	-6.90802	D210	05 Oct 2023
+R	53.163	-6.90802	D210	05 Oct 2023	D210\n12:15 - Dublin Heuston to Portlaoise (0 mins late)\nDeparted Kildare next stop Monasterevin
+R	53.163	-6.90802	D210	05 Oct 2023	D210\n12:15 - Dublin Heuston to Portlaoise (0 mins late)\nDeparted Kildare next stop Monasterevin	To Portlaoise
+R
+R	53.3223
+R	53.3223	-6.52356
+R	53.3223	-6.52356	D211
+R	53.3223	-6.52356	D211	05 Oct 2023
+R	53.3223	-6.52356	D211	05 Oct 2023	D211\n12:40 - Dublin Heuston to Newbridge (0 mins late)\nDeparted Hazelhatch next stop Sallins
+R	53.3223	-6.52356	D211	05 Oct 2023	D211\n12:40 - Dublin Heuston to Newbridge (0 mins late)\nDeparted Hazelhatch next stop Sallins	To Newbridge
+R
+R	53.3334
+R	53.3334	-6.40628
+R	53.3334	-6.40628	D409
+R	53.3334	-6.40628	D409	05 Oct 2023
+R	53.3334	-6.40628	D409	05 Oct 2023	D409\n12:30 - Grand Canal Dock to Hazelhatch (0 mins late)\nArrived Clondalkin next stop Adamstown
+R	53.3334	-6.40628	D409	05 Oct 2023	D409\n12:30 - Grand Canal Dock to Hazelhatch (0 mins late)\nArrived Clondalkin next stop Adamstown	Southbound
+R
+R	53.3755
+R	53.3755	-6.33135
+R	53.3755	-6.33135	D915
+R	53.3755	-6.33135	D915	05 Oct 2023
+R	53.3755	-6.33135	D915	05 Oct 2023	D915\n12:47 - Dublin Connolly to Maynooth (2 mins late)\nDeparted Ashtown next stop Navan Road Parkway
+R	53.3755	-6.33135	D915	05 Oct 2023	D915\n12:47 - Dublin Connolly to Maynooth (2 mins late)\nDeparted Ashtown next stop Navan Road Parkway	Northbound
+R
+R	53.3815
+R	53.3815	-6.17699
+R	53.3815	-6.17699	D809
+R	53.3815	-6.17699	D809	05 Oct 2023
+R	53.3815	-6.17699	D809	05 Oct 2023	D809\n12:50 - Dublin Connolly to Drogheda (4 mins late)\nDeparted Raheny next stop Malahide
+R	53.3815	-6.17699	D809	05 Oct 2023	D809\n12:50 - Dublin Connolly to Drogheda (4 mins late)\nDeparted Raheny next stop Malahide	Northbound
+T
+T	53.378
+T	53.378	-6.58993
+T	53.378	-6.58993	D914
+T	53.378	-6.58993	D914	05 Oct 2023
+T	53.378	-6.58993	D914	05 Oct 2023	D914\n12:17 - Dublin Connolly to Maynooth(0 mins late)\nTERMINATED Maynooth at 13:00
+T	53.378	-6.58993	D914	05 Oct 2023	D914\n12:17 - Dublin Connolly to Maynooth(0 mins late)\nTERMINATED Maynooth at 13:00	Northbound

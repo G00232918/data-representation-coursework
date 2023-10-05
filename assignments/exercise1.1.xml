@@ -1,0 +1,56 @@
+<!-- Reference of book catalogue - https://learn.microsoft.com/en-us/previous-versions/windows/desktop/ms762271(v=vs.85)-->
+
+<!-- Root element for the entire library -->
+<library>
+    
+    <!-- This is the first catalogue, containing technical books -->
+    <catalogue name="technical books">
+        
+        <!-- Book one in the catalogue -->
+        <book>
+            <!-- International Standard Book Number-->
+            <isbn>978-1098104030</isbn>
+            <!-- Title -->
+            <title>Python for Data Analysis 3e: Data Wrangling with pandas, NumPy, and Jupyter</title>
+            <!-- Author(s) -->
+            <author>Wes McKinney</author>
+        </book>
+        
+        <!-- Book 2 -->
+        <book>
+            <!-- International Standard Book Number  -->
+            <isbn>978-1098108304</isbn>
+            <!-- Title -->
+            <title>Fundamentals of Data Engineering: Plan and Build Robust Data System</title>
+            <!-- Author(s) -->
+            <author>Joe Reis</author>
+        </book>
+        
+    </catalogue>
+    
+    <!-- This is the second catalogue, containing cookery books -->
+    <catalogue name="cookery books">
+        
+        <!-- Book one -->
+        <book>
+            <!-- International Standard Book Number -->
+            <isbn>978-1444756692</isbn>
+            <!-- Title  -->
+            <title>Gordon Ramsay's Ultimate Cookery Course</title>
+            <!-- Author(s) o -->
+            <author>Gordon Ramsey</author>
+        </book>
+        
+        <!-- Book 2 -->
+        <book>
+            <!-- International Standard Book Number -->
+            <isbn>978-1782060062</isbn>
+            <!-- Title -->
+            <title>The Hungry Student Cookbook</title>
+            <!-- Author(s) -->
+            <author>Charlotte Pike</author>
+        </book>
+        
+    </catalogue>
+    
+</library>
