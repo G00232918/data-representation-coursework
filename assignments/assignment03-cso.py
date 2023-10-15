@@ -25,8 +25,8 @@ if response.status_code == 200:
     with open("cso_ex_hist.json", "w") as f:
         # Write the JSON data to the file
         json.dump(data, f)
-    # Print a success message
+    # Print success message
     print("Dataset saved as cso_ex_hist.json")
 else:
-    # Print an error message
+    # Print error message
     print("The request failed", response.status_code)
